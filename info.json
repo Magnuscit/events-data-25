@@ -1,0 +1,79 @@
+{
+  "PAPER": {
+    "name": "Paper Presentation",
+    "type": "Technical",
+    "date": "17/02/2025"
+  },
+
+  "PROP": {
+    "name": "Proto Pitch",
+    "type": "Technical",
+    "date": "17/02/2025"
+  },
+
+  "QUIZ": {
+    "name": "Quizopolis",
+    "type": "Technical",
+    "date": "17/02/2025"
+  },
+
+  "CODE": {
+    "name": "Codeuphoria",
+    "type": "Technical",
+    "date": "17/02/2025"
+  },
+
+  "NETVEN": {
+    "name": "Netventure",
+    "type": "Technical",
+    "date": "17/02/2025"
+  },
+
+  "PIXEL": {
+    "name": "Prompt Pixel",
+    "type": "Technical",
+    "date": "17/02/2025"
+  },
+
+  "BGMI": {
+    "name": "BGMI",
+    "type": "Non-Technical",
+    "date": "17/02/2025"
+  },
+
+  "CINE": {
+    "name": "Cinematica",
+    "type": "Non-Technical",
+    "date": "17/02/2025"
+  },
+
+  "SHERL": {
+    "name": "Sherlock's Clueso",
+    "type": "Non-Technical",
+    "date": "17/02/2025"
+  },
+
+  "DECK": {
+    "name": "Deck Dominance",
+    "type": "Non-Technical",
+    "date": "17/02/2025"
+  },
+
+  "IPL": {
+    "name": "IPL Auction",
+    "type": "Non-Technical",
+    "date": "17/02/2025"
+  },
+
+  "EXPO": {
+    "name": "ExpoSURE",
+    "type": "Online",
+    "date": "17/02/2025"
+  },
+
+  "LIFE": {
+    "name": "Life of Words",
+    "type": "Online",
+    "date": "17/02/2025"
+  }
+}
