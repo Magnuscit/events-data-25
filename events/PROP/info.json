@@ -1,7 +1,7 @@
 {
   "id": "PROP",
   "title": "Proto Pitch",
-  "description": "",
+  "description": "Dynamic event that blends the creativity of UI/UX design with the competitive spirit of a hackathon. Participants will be tasked with building a functional prototype in Figma based on one of five exciting themes provided at the start of the event. Working within a limited timeframe, teams will brainstorm, design, and iterate on their concepts to create user-friendly and visually appealing prototypes. Once the designs are complete, each team will present their prototype to a panel of judges, explaining their design process, key features, and the rationale behind their choices.",
   "details": {
     "type": "TECHNICAL",
     "date": "17/02/2025"
@@ -13,16 +13,15 @@
     "The team-head should register for the event, on behalf of the team."
   ],
   "rules": [
-    "Time allotted for each team is 10 min.",
-    "Each team must consist of 3 to 4 members.",
-    "Team will have a time of 3 to 4 minutes to inspect the crime scene.",
-    "A video of suspects’ statements will be played to the teams.",
-    "Team must discuss the case within the specified time.",
-    "Gadgets will not be allowed within the premises.",
-    "For each hint asked by the team, accountable points will be deducted as per jury team."
+    "Participants must build a functional prototype in Figma.",
+    "Themes will be provided at the start of the event.",
+    "Teams must brainstorm, design, and iterate within the given timeframe.",
+    "Each team will present their prototype to the judges.",
+    "Presentation must include design process, key features, and rationale."
   ],
   "contacts": [
     { "incharge": "Shreehari S", "phno": 9043775891 },
     { "incharge": "Lovelin Dhoni J B", "phno": 7200850960 }
   ]
 }
+

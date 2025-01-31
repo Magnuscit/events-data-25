@@ -1,7 +1,7 @@
 {
   "id": "QUIZ",
   "title": "Quizopolis",
-  "description": "",
+  "description": "An electrifying quiz competition which features multiple rounds, each with a unique and interactive format to keep participants on their toes. Every round promises a new twist. As the rounds progress, the questions become more complex, ensuring a thrilling and competitive atmosphere.",
   "details": {
     "type": "TECHNICAL",
     "date": "17/02/2025"
@@ -13,16 +13,14 @@
     "The team-head should register for the event, on behalf of the team."
   ],
   "rules": [
-    "Time allotted for each team is 10 min.",
-    "Each team must consist of 3 to 4 members.",
-    "Team will have a time of 3 to 4 minutes to inspect the crime scene.",
-    "A video of suspects’ statements will be played to the teams.",
-    "Team must discuss the case within the specified time.",
-    "Gadgets will not be allowed within the premises.",
-    "For each hint asked by the team, accountable points will be deducted as per jury team."
+    "The quiz consists of multiple rounds.",
+    "Each round will have a unique and interactive format.",
+    "As rounds progress, questions will become more complex.",
+    "Participants must answer within the given time limit."
   ],
   "contacts": [
     { "incharge": "Shreehari S", "phno": 9043775891 },
     { "incharge": "Lovelin Dhoni J B", "phno": 7200850960 }
   ]
 }
+

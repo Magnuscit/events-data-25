@@ -1,7 +1,7 @@
 {
   "id": "SHERL",
   "title": "Sherlock's Clueso",
-  "description": "",
+  "description": "Participants solve a series of intricate cases through various detective tasks. Each level introduces a new format, from solving puzzles to decoding the codewords and uncovering hidden clues. This immersive experience will challenge their wits and creativity.",
   "details": {
     "type": "NON-TECHNICAL",
     "date": "17/02/2025"
@@ -13,16 +13,14 @@
     "The team-head should register for the event, on behalf of the team."
   ],
   "rules": [
-    "Time allotted for each team is 10 min.",
-    "Each team must consist of 3 to 4 members.",
-    "Team will have a time of 3 to 4 minutes to inspect the crime scene.",
-    "A video of suspects’ statements will be played to the teams.",
-    "Team must discuss the case within the specified time.",
-    "Gadgets will not be allowed within the premises.",
-    "For each hint asked by the team, accountable points will be deducted as per jury team."
+    "Participants will solve a series of detective tasks.",
+    "Each level will introduce a new challenge, including puzzles and codeword decoding.",
+    "Hidden clues must be uncovered to progress.",
+    "Use of any external gadgets is strictly prohibited."
   ],
   "contacts": [
     { "incharge": "Shreehari S", "phno": 9043775891 },
     { "incharge": "Lovelin Dhoni J B", "phno": 7200850960 }
   ]
 }
+

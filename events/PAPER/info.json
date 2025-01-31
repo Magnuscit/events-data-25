@@ -1,7 +1,7 @@
 {
   "id": "PAPER",
   "title": "Paper Presentation",
-  "description": "",
+  "description": "Participants are given the opportunity to showcase their research and innovative ideas in a professional setting. Participants are invited to submit their research papers on various topics within engineering, technology, and science. Selected participants will present their work to a panel of esteemed judges and an audience of peers, followed by a Q&A session.",
   "details": {
     "type": "TECHNICAL",
     "date": "17/02/2025"
@@ -13,16 +13,13 @@
     "The team-head should register for the event, on behalf of the team."
   ],
   "rules": [
-    "Time allotted for each team is 10 min.",
-    "Each team must consist of 3 to 4 members.",
-    "Team will have a time of 3 to 4 minutes to inspect the crime scene.",
-    "A video of suspects’ statements will be played to the teams.",
-    "Team must discuss the case within the specified time.",
-    "Gadgets will not be allowed within the premises.",
-    "For each hint asked by the team, accountable points will be deducted as per jury team."
+    "Participants are invited to submit their research papers.",
+    "Selected participants will present their work to a panel of judges.",
+    "A Q&A session will follow the presentation."
   ],
   "contacts": [
     { "incharge": "Shreehari S", "phno": 9043775891 },
     { "incharge": "Lovelin Dhoni J B", "phno": 7200850960 }
   ]
 }
+

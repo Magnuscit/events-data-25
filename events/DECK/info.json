@@ -1,7 +1,7 @@
 {
   "id": "DECK",
   "title": "Deck Dominance",
-  "description": "",
+  "description": "Deck Dominance is a high-stakes, strategic showdown where teams face diverse challenges tied to card suits. Teams must complete tasks, collect cards, and score maximum points. Only the sharpest and most collaborative teams will claim victory.",
   "details": {
     "type": "NON-TECHNICAL",
     "date": "17/02/2025"
@@ -26,3 +26,4 @@
     { "incharge": "Lovelin Dhoni J B", "phno": 7200850960 }
   ]
 }
+

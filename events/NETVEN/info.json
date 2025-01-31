@@ -1,7 +1,7 @@
 {
   "id": "NETVEN",
   "title": "Netventure",
-  "description": "",
+  "description": "Faced with a series of tasks inspired by the concept of CTF, each completed challenge brings participants closer to their final destination. Designed to be accessible and engaging, this event combines storytelling with problem-solving, making it both fun and approachable.",
   "details": {
     "type": "TECHNICAL",
     "date": "17/02/2025"
@@ -13,16 +13,15 @@
     "The team-head should register for the event, on behalf of the team."
   ],
   "rules": [
-    "Time allotted for each team is 10 min.",
-    "Each team must consist of 3 to 4 members.",
-    "Team will have a time of 3 to 4 minutes to inspect the crime scene.",
-    "A video of suspects’ statements will be played to the teams.",
-    "Team must discuss the case within the specified time.",
-    "Gadgets will not be allowed within the premises.",
-    "For each hint asked by the team, accountable points will be deducted as per jury team."
+    "Participants will solve a series of challenges inspired by CTF concepts.",
+    "Each completed challenge will unlock the next step towards the final goal.",
+    "Tasks will involve problem-solving, logic, and cybersecurity elements.",
+    "External gadgets are strictly prohibited.",
+    "Teams must complete all tasks within the given time frame."
   ],
   "contacts": [
     { "incharge": "Shreehari S", "phno": 9043775891 },
     { "incharge": "Lovelin Dhoni J B", "phno": 7200850960 }
   ]
 }
+

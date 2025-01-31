@@ -1,7 +1,7 @@
 {
   "id": "LIFE",
   "title": "Life of Words",
-  "description": "",
+  "description": "Participants craft and share their original poems. This event offers a platform for poets to showcase their talent and connect with an audience through the power of words.",
   "details": {
     "type": "ONLINE",
     "date": "17/02/2025"
@@ -10,19 +10,19 @@
   "registration": [
     "College ID is mandatory.",
     "This event comes under general registration.",
-    "The team-head should register for the event, on behalf of the team."
+    "The event is open to individual participants.",
+    "Submissions must be original and plagiarism-free."
   ],
   "rules": [
-    "Time allotted for each team is 10 min.",
-    "Each team must consist of 3 to 4 members.",
-    "Team will have a time of 3 to 4 minutes to inspect the crime scene.",
-    "A video of suspects’ statements will be played to the teams.",
-    "Team must discuss the case within the specified time.",
-    "Gadgets will not be allowed within the premises.",
-    "For each hint asked by the team, accountable points will be deducted as per jury team."
+    "Poems can be written in English or Tamil.",
+    "Participants must submit their entries before the deadline.",
+    "Poems should not exceed 300 words.",
+    "Use of AI-generated content is not allowed.",
+    "Judging will be based on creativity, originality, and emotional impact."
   ],
   "contacts": [
     { "incharge": "Shreehari S", "phno": 9043775891 },
     { "incharge": "Lovelin Dhoni J B", "phno": 7200850960 }
   ]
 }
+
