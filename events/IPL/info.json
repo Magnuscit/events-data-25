@@ -6,10 +6,13 @@
     "type": "NON-TECHNICAL",
     "date": "17/02/2025"
   },
-  "category": "GEN",
+  "category": "INDIVIDUAL",
   "registration": [
-    "College ID is mandatory.",
-    "This event comes under general registration.",
+    "Only college students are permitted to participate.",
+    "A valid college ID is mandatory.",
+    "Participants must wear the registration throughout the day.",
+    "Prior registration is mandatory to attend any event/workshops, either online or on-spot.",
+    "Re-entry is not allowed, and the fee paid for any event/workshops is non-refundable.",
     "The team-head should register for the event on behalf of the team."
   ],
   "rules": [
@@ -22,8 +25,10 @@
     "Use of external resources or gadgets for data analysis is not allowed."
   ],
   "contacts": [
-    { "incharge": "Shreehari S", "phno": 9043775891 },
-    { "incharge": "Lovelin Dhoni J B", "phno": 7200850960 }
-  ]
+    { "incharge": "Shreehari S", "phno": "9043775891" },
+    { "incharge": "Lovelin Dhoni J B", "phno": "7200850960" }
+  ],
+  "price": "Rs." 
+  // Prize, Contact information not provided
 }
 

@@ -6,20 +6,32 @@
     "type": "TECHNICAL",
     "date": "17/02/2025"
   },
-  "category": "GEN",
+  "category": "TEAM",
   "registration": [
-    "College ID is mandatory.",
-    "This event comes under general registration.",
-    "The team-head should register for the event, on behalf of the team."
+    "Only college students are permitted to participate.",
+    "A valid college ID is mandatory.",
+    "Participants must wear the registration throughout the day.",
+    "Prior registration is mandatory to attend any event/workshops, either online or on-spot.",
+    "Re-entry is not allowed, and the fee paid for any event/workshops is non-refundable.",
+    "For team events, every member should have been registered."
   ],
   "rules": [
-    "Participants are invited to submit their research papers.",
-    "Selected participants will present their work to a panel of judges.",
-    "A Q&A session will follow the presentation."
+    "A maximum of three members per team is allowed.",
+    "Event duration will vary based on team count.",
+    "Each team will get 5 minutes for their presentation, followed by a Q&A session for 2-3 minutes.",
+    "Soft copies of the paper must be submitted by the participant/teams.",
+    "Presenters must bring their laptops or pen drives to present their papers on the day of the event.",
+    "Participants must bring their college ID card on the event day.",
+    "The decision of the judges will be final, and no arguments will be entertained.",
+    "Work should be original and not copied from any other sources.",
+    "Participants must uphold fair play, respect the final decision, and abide by the event organizer’s instructions.",
+    "Any kind of activities that disturb the decorum of the symposium will not be tolerated."
   ],
   "contacts": [
-    { "incharge": "Shreehari S", "phno": 9043775891 },
-    { "incharge": "Lovelin Dhoni J B", "phno": 7200850960 }
-  ]
+    { "incharge": "Faheem", "phno": 7305147636 },
+    { "incharge": "Jayashree", "phno": "" },
+    { "incharge": "Mohan", "phno": "" }
+  ],
+  "price": "Rs. 25"
 }
 

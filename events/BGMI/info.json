@@ -1,28 +1,38 @@
 {
   "id": "BGMI",
   "title": "BGMI",
-  "description": "",
+  "description": "BGMI is a competitive battle royale tournament where players form teams and compete for the top spot in a fast-paced, action-packed game. Participants will compete to survive, strategize, and emerge victorious. Emulators and hacks are strictly prohibited to ensure fair play.",
   "details": {
     "type": "NON-TECHNICAL",
     "date": "17/02/2025"
   },
-  "category": "GEN",
+  "category": "TEAM",
   "registration": [
-    "College ID is mandatory.",
-    "This event comes under general registration.",
-    "The team-head should register for the event, on behalf of the team."
+    "Only college students are permitted to participate.",
+    "A valid college ID is mandatory.",
+    "Participants must wear the registration throughout the day.",
+    "Prior registration is mandatory to attend any event/workshops, either online or on-spot.",
+    "Re-entry is not allowed, and the fee paid for any event/workshops is non-refundable."
   ],
   "rules": [
-    "Time allotted for each team is 10 min.",
-    "Each team must consist of 3 to 4 members.",
-    "Team will have a time of 3 to 4 minutes to inspect the crime scene.",
-    "A video of suspects’ statements will be played to the teams.",
-    "Team must discuss the case within the specified time.",
-    "Gadgets will not be allowed within the premises.",
-    "For each hint asked by the team, accountable points will be deducted as per jury team."
+    "Team Size: Team participation of 4 members.",
+    "Event Duration: Will vary based on the time of game completion.",
+    "Players are only allowed to enter the match when they are physically present in the given venue.",
+    "Participants must own a compatible mobile device, a BGMI account, and use their own accessories.",
+    "Emulators and iPads are strictly not allowed.",
+    "Participants who use any sort of hack will be disqualified from the tournament.",
+    "Minimum 3 players must play the match; otherwise, your team will be disqualified.",
+    "Teaming up with the opponents is strictly prohibited. If found, both team members will be disqualified.",
+    "Leaking match IDs and passwords may result in direct prohibition for the whole team.",
+    "Players are requested to take screenshots of their respective team results after the game for verification purposes.",
+    "No abusive language will be tolerated with the hosts nor any other contestants."
   ],
   "contacts": [
-    { "incharge": "Shreehari S", "phno": 9043775891 },
-    { "incharge": "Lovelin Dhoni J B", "phno": 7200850960 }
-  ]
+    { "incharge": "Jovan", "phno": "8838158035" },
+    { "incharge": "Tharun Tej", "phno": "8985502282" },
+    { "incharge": "Karthi", "phno": "9847348267" },
+    { "incharge": "Mohanraj K", "phno": "9098743456" }
+  ],
+  "price": "Rs.140 per team"
 }
+

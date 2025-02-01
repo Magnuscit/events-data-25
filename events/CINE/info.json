@@ -1,28 +1,34 @@
 {
   "id": "CINE",
   "title": "Cinematica",
-  "description": "",
+  "description": "Cinematica is a thrilling quiz competition that tests participants' knowledge of Tamil cinema. With multiple rounds featuring different formats, participants will need to showcase their knowledge of Tamil movies to advance. The team with the most points at the end of each round progresses to the next stage.",
   "details": {
     "type": "NON-TECHNICAL",
     "date": "17/02/2025"
   },
-  "category": "GEN",
+  "category": "TEAM",
   "registration": [
     "College ID is mandatory.",
     "This event comes under general registration.",
-    "The team-head should register for the event, on behalf of the team."
+    "The team-head should register for the event, on behalf of the team.",
+    "Only college students are permitted to participate.",
+    "A valid college ID is mandatory.",
+    "Participants must wear the registration throughout the day.",
+    "Prior registration is mandatory to attend any event/workshops, either online or on-spot.",
+    "Re-entry is not allowed, and the fee paid for any event/workshops is non-refundable."
   ],
   "rules": [
-    "Time allotted for each team is 10 min.",
-    "Each team must consist of 3 to 4 members.",
-    "Team will have a time of 3 to 4 minutes to inspect the crime scene.",
-    "A video of suspects’ statements will be played to the teams.",
-    "Team must discuss the case within the specified time.",
-    "Gadgets will not be allowed within the premises.",
-    "For each hint asked by the team, accountable points will be deducted as per jury team."
+    "The quiz will consist of multiple rounds.",
+    "Each round will have a unique and interactive format.",
+    "Points will be awarded based on each round.",
+    "The team with the most points at the end of each round advances to the next round.",
+    "No mobiles or external help allowed.",
+    "Any team that violates the rules or engages in unsportsmanlike conduct may be disqualified."
   ],
   "contacts": [
-    { "incharge": "Shreehari S", "phno": 9043775891 },
-    { "incharge": "Lovelin Dhoni J B", "phno": 7200850960 }
-  ]
+    { "incharge": "Ashika", "phno": "8939431257" },
+    { "incharge": "Latheesh", "phno": "6382235520" }
+  ],
+  "price": "Rs.49 per head"
 }
+

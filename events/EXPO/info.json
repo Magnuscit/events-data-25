@@ -6,11 +6,13 @@
     "type": "ONLINE",
     "date": "17/02/2025"
   },
-  "category": "GEN",
+  "category": "INDIVIDUAL",
   "registration": [
-    "College ID is mandatory.",
-    "This event comes under general registration.",
-    "The team-head should register for the event, on behalf of the team."
+    "Only college students are permitted to participate.",
+    "A valid college ID is mandatory.",
+    "Participants must wear the registration throughout the day.",
+    "Prior registration is mandatory to attend any event/workshops, either online or on-spot.",
+    "Re-entry is not allowed, and the fee paid for any event/workshops is non-refundable."
   ],
   "rules": [
     "Only one entry per person.",
@@ -21,7 +23,10 @@
     "DSLR and mobile phones are permitted for photography.",
     "Selfies and casual photos will not be accepted.",
     "Basic editing, such as color correction and cropping, is acceptable.",
-    "The photograph will be evaluated based on the number of likes (50%) and the judges' decision (50%)."
+    "Submit the photograph in JPG format, following the filename convention: 'Name-Theme.jpg' (e.g., 'Harry-Street Symphony.jpg').",
+    "The photograph will be evaluated based on judges' decision and the number of likes.",
+    "Participants must uphold fair play, respect the final decision, and abide by the event organizer’s instructions.",
+    "Any kind of activities that disturb the decorum of the symposium will not be tolerated."
   ],
   "contacts": [
     { "incharge": "Shreeram", "phno": 7397247375 }

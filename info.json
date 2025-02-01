@@ -6,7 +6,7 @@
   },
 
   "PROP": {
-    "name": "Proto Pitch",
+    "name": "ProtoPitch",
     "type": "Technical",
     "date": "17/02/2025"
   },
@@ -30,7 +30,7 @@
   },
 
   "PIXEL": {
-    "name": "Prompt Pixel",
+    "name": "PromptPixel",
     "type": "Technical",
     "date": "17/02/2025"
   },
@@ -65,6 +65,12 @@
     "date": "17/02/2025"
   },
 
+  "FBALL": {
+    "name": "E-Football",
+    "type": "Non-Technical",
+    "date": "17/02/2025"
+  },
+
   "EXPO": {
     "name": "ExpoSURE",
     "type": "Online",
@@ -75,5 +81,24 @@
     "name": "Life of Words",
     "type": "Online",
     "date": "17/02/2025"
+  },
+
+  "CLOUD": {
+    "name": "Cloud Security",
+    "type": "Workshop",
+    "date": "17/02/2025"
+  },
+
+  "RAG": {
+    "name": "Mastering RAG",
+    "type": "Workshop",
+    "date": "17/02/2025"
+  },
+
+  "BLOCK": {
+    "name": "Blockchain",
+    "type": "Workshop",
+    "date": "17/02/2025"
   }
+
 }

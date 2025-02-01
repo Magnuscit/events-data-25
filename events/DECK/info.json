@@ -6,24 +6,28 @@
     "type": "NON-TECHNICAL",
     "date": "17/02/2025"
   },
-  "category": "GEN",
+  "category": "TEAM",
   "registration": [
-    "College ID is mandatory.",
-    "This event comes under general registration.",
-    "The team-head should register for the event, on behalf of the team."
+    "Only college students are permitted to participate.",
+    "A valid college ID is mandatory.",
+    "The team-head should register for the event, on behalf of the team.",
+    "Participants must wear the registration throughout the day.",
+    "Prior registration is mandatory to attend any event/workshops, either online or on-spot.",
+    "Re-entry is not allowed, and the fee paid for any event/workshops is non-refundable."
   ],
   "rules": [
-    "Time allotted for each team is 10 min.",
-    "Each team must consist of 3 to 4 members.",
-    "Team will have a time of 3 to 4 minutes to inspect the crime scene.",
-    "A video of suspects’ statements will be played to the teams.",
-    "Team must discuss the case within the specified time.",
-    "Gadgets will not be allowed within the premises.",
-    "For each hint asked by the team, accountable points will be deducted as per jury team."
+    "Each member randomly draws a card from the deck.",
+    "Team members participate in turns.",
+    "Each shape of card will follow a particular style of challenges and each card will have a point.",
+    "If the challenge is successfully completed, the player earns the card and the points. Otherwise, they lose their turn, along with the card and points.",
+    "The team that collects the most cards with the most points will advance towards victory.",
+    "Usage of mobile phones or any external help is not allowed.",
+    "Any team that violates the rules or engages in unsportsmanlike conduct may be disqualified."
   ],
   "contacts": [
-    { "incharge": "Shreehari S", "phno": 9043775891 },
-    { "incharge": "Lovelin Dhoni J B", "phno": 7200850960 }
-  ]
+    { "incharge": "Faheem", "phno": "7305147636" }
+  ],
+  "price": "Rs." 
+  // prize amount not provided
 }
 
