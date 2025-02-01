@@ -1,28 +1,36 @@
 {
   "id": "EXPO",
   "title": "ExpoSURE",
-  "description": "",
+  "description": "Exposure is an online photography event where participants submit original photographs based on specified themes. Photographs will be judged based on public likes and a panel of judges. The event includes themes like 'Street Symphony,' 'Dancing in the Rain,' 'Doors to Imagination,' and 'Nature’s Companions.' Participants can use a DSLR or mobile phone for submissions.",
   "details": {
     "type": "ONLINE",
     "date": "17/02/2025"
   },
-  "category": "GEN",
+  "category": "INDIVIDUAL",
   "registration": [
-    "College ID is mandatory.",
-    "This event comes under general registration.",
-    "The team-head should register for the event, on behalf of the team."
+    "Only college students are permitted to participate.",
+    "A valid college ID is mandatory.",
+    "Participants must wear the registration throughout the day.",
+    "Prior registration is mandatory to attend any event/workshops, either online or on-spot.",
+    "Re-entry is not allowed, and the fee paid for any event/workshops is non-refundable."
   ],
   "rules": [
-    "Time allotted for each team is 10 min.",
-    "Each team must consist of 3 to 4 members.",
-    "Team will have a time of 3 to 4 minutes to inspect the crime scene.",
-    "A video of suspects’ statements will be played to the teams.",
-    "Team must discuss the case within the specified time.",
-    "Gadgets will not be allowed within the premises.",
-    "For each hint asked by the team, accountable points will be deducted as per jury team."
+    "Only one entry per person.",
+    "Photographs must be submitted via the registration form before 15.02.25.",
+    "Photographs must align with one of the following themes: 'Street Symphony,' 'Dancing in the Rain,' 'Doors to Imagination,' or 'Nature’s Companions.'",
+    "The photograph must be original and not sourced from the internet or plagiarized.",
+    "No watermarks are allowed on the photo.",
+    "DSLR and mobile phones are permitted for photography.",
+    "Selfies and casual photos will not be accepted.",
+    "Basic editing, such as color correction and cropping, is acceptable.",
+    "Submit the photograph in JPG format, following the filename convention: 'Name-Theme.jpg' (e.g., 'Harry-Street Symphony.jpg').",
+    "The photograph will be evaluated based on judges' decision and the number of likes.",
+    "Participants must uphold fair play, respect the final decision, and abide by the event organizer’s instructions.",
+    "Any kind of activities that disturb the decorum of the symposium will not be tolerated."
   ],
   "contacts": [
-    { "incharge": "Shreehari S", "phno": 9043775891 },
-    { "incharge": "Lovelin Dhoni J B", "phno": 7200850960 }
-  ]
+    { "incharge": "Shreeram", "phno": 7397247375 }
+  ],
+  "price": "Rs.25"
 }
+

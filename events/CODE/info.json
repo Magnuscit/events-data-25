@@ -1,28 +1,32 @@
 {
   "id": "CODE",
-  "title": "Codeuphoria",
-  "description": "",
+  "title": "CodEuphoria",
+  "description": "A thrilling coding challenge designed to test problem-solving skills and programming proficiency. Participants will be given a set of coding problems and must implement efficient solutions within the given time. All programming languages are allowed, ensuring a level playing field for all participants.",
   "details": {
     "type": "TECHNICAL",
     "date": "17/02/2025"
   },
-  "category": "GEN",
+  "category": "INDIVIDUAL",
   "registration": [
-    "College ID is mandatory.",
-    "This event comes under general registration.",
-    "The team-head should register for the event, on behalf of the team."
+    "Only college students are permitted to participate.",
+    "A valid college ID is mandatory.",
+    "Participants must wear the registration throughout the day.",
+    "Prior registration is mandatory to attend any event/workshops, either online or on-spot.",
+    "Re-entry is not allowed, and the fee paid for any event/workshops is non-refundable."
   ],
   "rules": [
-    "Time allotted for each team is 10 min.",
-    "Each team must consist of 3 to 4 members.",
-    "Team will have a time of 3 to 4 minutes to inspect the crime scene.",
-    "A video of suspects’ statements will be played to the teams.",
-    "Team must discuss the case within the specified time.",
-    "Gadgets will not be allowed within the premises.",
-    "For each hint asked by the team, accountable points will be deducted as per jury team."
+    "Team Size: Individual participation.",
+    "Event Duration: 2 hours (approx).",
+    "Participants will be given a set number of coding problems to solve.",
+    "Participants can bring their own laptop or use a provided PC.",
+    "All programming languages are allowed.",
+    "Additional instructions will be given at the start of the event.",
+    "Any form of plagiarism will lead to immediate disqualification."
   ],
   "contacts": [
-    { "incharge": "Shreehari S", "phno": 9043775891 },
-    { "incharge": "Lovelin Dhoni J B", "phno": 7200850960 }
-  ]
+    { "incharge": "Saathvik", "phno": "9492045797" },
+    { "incharge": "Faheem", "phno": "7305147636" }
+  ],
+  "price": "Rs. 50"
 }
+

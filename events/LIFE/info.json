@@ -1,28 +1,38 @@
 {
   "id": "LIFE",
-  "title": "Life of Words",
-  "description": "",
+  "title": "Life of Words / எழுத்தின் உயிர்",
+  "description": "Participants craft and share their original poems. This event offers a platform for poets to showcase their talent and connect with an audience through the power of words. Winners will be selected separately for English and Tamil poems.",
   "details": {
     "type": "ONLINE",
     "date": "17/02/2025"
   },
-  "category": "GEN",
+  "category": "INDIVIDUAL",
   "registration": [
-    "College ID is mandatory.",
-    "This event comes under general registration.",
-    "The team-head should register for the event, on behalf of the team."
+    "Only college students are permitted to participate.",
+    "A valid college ID is mandatory.",
+    "Participants must wear the registration throughout the day.",
+    "Prior registration is mandatory to attend any event/workshops, either online or on-spot.",
+    "Re-entry is not allowed, and the fee paid for any event/workshops is non-refundable."
   ],
   "rules": [
-    "Time allotted for each team is 10 min.",
-    "Each team must consist of 3 to 4 members.",
-    "Team will have a time of 3 to 4 minutes to inspect the crime scene.",
-    "A video of suspects’ statements will be played to the teams.",
-    "Team must discuss the case within the specified time.",
-    "Gadgets will not be allowed within the premises.",
-    "For each hint asked by the team, accountable points will be deducted as per jury team."
+    "Each poem must have a title.",
+    "Only one entry per participant is permitted.",
+    "Participants must register and submit their work via the registration form before 15.02.25.",
+    "The poem can be on any theme, but must be respectful and not offensive.",
+    "The poem must be in the designated language (ANY ONE LANGUAGE - TAMIL/ENGLISH).",
+    "Submissions must be original and plagiarism-free.",
+    "Offensive language and plagiarism are strictly prohibited and will result in disqualification.",
+    "The poem should not exceed 15 lines, excluding the title.",
+    "Use of AI-generated content is not allowed.",
+    "Evaluation will be based on Emotional Impact, Creativity, Language and Clarity, Depth of Meaning, Structure & Flow, and Number of Likes.",
+    "Submit your poem in PDF format, following the filename convention: 'Name-Title.pdf' (e.g., 'Harry-Memories.pdf').",
+    "Participants must uphold fair play, respect the final decision, and abide by the event organizer’s instructions.",
+    "Any kind of activities that disturb the decorum of the symposium will not be tolerated."
   ],
   "contacts": [
-    { "incharge": "Shreehari S", "phno": 9043775891 },
-    { "incharge": "Lovelin Dhoni J B", "phno": 7200850960 }
-  ]
+    { "incharge": "Faheem", "phno": 7305147636 },
+    { "incharge": "Archana", "phno": 9791792044 }
+  ],
+  "price": "Rs. 25"
 }
+

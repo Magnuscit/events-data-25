@@ -1,0 +1,36 @@
+{
+  "id": "FBALL",
+  "title": "eFootball",
+  "description": "eFootball is a knockout tournament where players compete in an intense series of matches. With 32 players, each match will last 6 minutes, with extra time and penalties if needed. The final will be played for 10 minutes with extra time and penalties. The event ensures fair play and sportsmanship throughout the tournament.",
+  "details": {
+    "type": "NON-TECHNICAL",
+    "date": "17/02/2025"
+  },
+  "category": "INDIVIDUAL",
+  "registration": [
+    "Only college students are permitted to participate.",
+    "A valid college ID is mandatory.",
+    "Participants must wear the registration throughout the day.",
+    "Prior registration is mandatory to attend any event/workshops, either online or on-spot.",
+    "Re-entry is not allowed, and the fee paid for any event/workshops is non-refundable.",
+    "The team-head should register for the event on behalf of the team."
+  ],
+  "rules": [
+    "Players are only allowed to enter the match when they are physically present in the given venue.",
+    "The tournament will consist of 32 players.",
+    "The tournament will follow a knockout format.",
+    "First round fixtures will not be based on seeding but rather based on registration to the event.",
+    "Every match (except final) will be played for 6 mins along with extra time and penalties just in case there is no result within 6 mins.",
+    "The final will be played for 10 mins with extra time and penalties.",
+    "Any violations of the rules will result in disqualification.",
+    "At no cost, rematch will be conducted.",
+    "Any player that violates the rules or engages in unsportsmanlike conduct may be disqualified."
+  ],
+  "contacts": [
+    { "incharge": "Sibichakaravarthy", "phno": "8610106306" },
+    { "incharge": "Faheem", "phno": "7305147636" }
+  ],
+  "price": "Rs." 
+  // Prize information not provided
+}
+

@@ -1,28 +1,33 @@
 {
   "id": "SHERL",
   "title": "Sherlock's Clueso",
-  "description": "",
+  "description": "Participants solve a series of intricate cases through various detective tasks. Each level introduces a new format, from solving puzzles to decoding the codewords and uncovering hidden clues. This immersive experience will challenge their wits and creativity.",
   "details": {
     "type": "NON-TECHNICAL",
     "date": "17/02/2025"
   },
-  "category": "GEN",
+  "category": "TEAM",
   "registration": [
-    "College ID is mandatory.",
-    "This event comes under general registration.",
+    "Only college students are permitted to participate.",
+    "A valid college ID is mandatory.",
+    "Participants must wear the registration throughout the day.",
+    "Prior registration is mandatory to attend any event/workshops, either online or on-spot.",
+    "Re-entry is not allowed, and the fee paid for any event/workshops is non-refundable.",
     "The team-head should register for the event, on behalf of the team."
   ],
   "rules": [
-    "Time allotted for each team is 10 min.",
-    "Each team must consist of 3 to 4 members.",
-    "Team will have a time of 3 to 4 minutes to inspect the crime scene.",
-    "A video of suspects’ statements will be played to the teams.",
-    "Team must discuss the case within the specified time.",
-    "Gadgets will not be allowed within the premises.",
-    "For each hint asked by the team, accountable points will be deducted as per jury team."
+    "A team may consist of 2-4 members.",
+    "The event will consist of multiple rounds, each with different detective tasks.",
+    "Each round will be connected to the previous one.",
+    "Use of mobile phones or any external gadgets is strictly prohibited.",
+    "Additional instructions will be given at the start of the event.",
+    "Any team that violates the rules or engages in unsportsmanlike conduct may be disqualified."
   ],
   "contacts": [
-    { "incharge": "Shreehari S", "phno": 9043775891 },
-    { "incharge": "Lovelin Dhoni J B", "phno": 7200850960 }
-  ]
+    { "incharge": "Shreehari S", "phno": "9043775891" },
+    { "incharge": "Lovelin Dhoni J B", "phno": "7200850960" }
+  ],
+  "price": "Rs."
+  // Prize information not provided
 }
+

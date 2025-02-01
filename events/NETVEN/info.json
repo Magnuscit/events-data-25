@@ -1,28 +1,32 @@
 {
   "id": "NETVEN",
-  "title": "Netventure",
-  "description": "",
+  "title": "NetVenture",
+  "description": "A challenge-based event inspired by CTF concepts, where participants solve a series of cybersecurity and problem-solving tasks. The event consists of two rounds: a Quiz Round and a Technical Round with weighted tasks. Winners are determined based on their scores and the time taken to complete the tasks.",
   "details": {
     "type": "TECHNICAL",
     "date": "17/02/2025"
   },
-  "category": "GEN",
+  "category": "INDIVIDUAL",
   "registration": [
-    "College ID is mandatory.",
-    "This event comes under general registration.",
-    "The team-head should register for the event, on behalf of the team."
+    "Only college students are permitted to participate.",
+    "A valid college ID is mandatory.",
+    "Participants must wear the registration throughout the day.",
+    "Prior registration is mandatory to attend any event/workshops, either online or on-spot.",
+    "Re-entry is not allowed, and the fee paid for any event/workshops is non-refundable."
   ],
   "rules": [
-    "Time allotted for each team is 10 min.",
-    "Each team must consist of 3 to 4 members.",
-    "Team will have a time of 3 to 4 minutes to inspect the crime scene.",
-    "A video of suspects’ statements will be played to the teams.",
-    "Team must discuss the case within the specified time.",
-    "Gadgets will not be allowed within the premises.",
-    "For each hint asked by the team, accountable points will be deducted as per jury team."
+    "Event Duration: 1 hour (approx).",
+    "Participants must bring their own laptop and power adapter.",
+    "The event consists of two rounds: a Quiz Round and a Technical Round.",
+    "The Technical Round will include weighted tasks.",
+    "Winners are determined based on score and time taken to complete tasks.",
+    "Collaboration with other participants is not allowed.",
+    "Any form of malpractice will result in immediate disqualification."
   ],
   "contacts": [
-    { "incharge": "Shreehari S", "phno": 9043775891 },
-    { "incharge": "Lovelin Dhoni J B", "phno": 7200850960 }
-  ]
+    { "incharge": "Saahir", "phno": "7448432553" },
+    { "incharge": "Kishore P", "phno": "9025152899" }
+  ],
+  "price": "Rs. 25"
 }
+
