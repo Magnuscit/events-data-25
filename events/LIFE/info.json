@@ -4,9 +4,14 @@
   "description": "Participants craft and share their original poems. This event offers a platform for poets to showcase their talent and connect with an audience through the power of words. Winners will be selected separately for English and Tamil poems.",
   "details": {
     "type": "ONLINE",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/LIFE/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/LIFE/assets/2.png",
+    "price": 25
   },
-  "category": "INDIVIDUAL",
   "registration": [
     "Only college students are permitted to participate.",
     "A valid college ID is mandatory.",
@@ -32,7 +37,5 @@
   "contacts": [
     { "incharge": "Faheem", "phno": 7305147636 },
     { "incharge": "Archana", "phno": 9791792044 }
-  ],
-  "price": "Rs. 25"
+  ]
 }
-

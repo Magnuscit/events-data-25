@@ -4,9 +4,14 @@
   "description": "An innovative event where participants type creative prompts and extract critical information from AI-generated visuals, tackling a series of engaging tasks to navigate to their final destination.",
   "details": {
     "type": "TECHNICAL",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "min_team_size": 2,
+    "max_team_size": 2,
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/PIXEL/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/PIXEL/assets/2.png",
+    "price": 0
   },
-  "category": "TEAM",
   "registration": [
     "Only college students are permitted to participate.",
     "A valid college ID is mandatory.",
@@ -26,11 +31,5 @@
     "Additional instructions will be given at the start of the event.",
     "Any team that violates the rules or engages in unsportsmanlike conduct may be disqualified."
   ],
-  "contacts": [
-    { "incharge": "Shreehari S", "phno": "9043775891" },
-    { "incharge": "Lovelin Dhoni J B", "phno": "7200850960" }
-  ],
-  "price": "Rs."
-  // Prize, Contact information not provided
+  "contacts": [{ "incharge": "Faheem", "phno": "7305147636" }]
 }
-

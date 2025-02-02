@@ -4,9 +4,14 @@
   "description": "An electrifying quiz competition featuring multiple rounds that test participants' technical knowledge. Teams will advance based on scores, and the complexity of questions will increase with each round. The event ensures a thrilling and competitive atmosphere.",
   "details": {
     "type": "TECHNICAL",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "min_team_size": 1,
+    "max_team_size": 2,
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/QUIZ/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/QUIZ/assets/2.png",
+    "price": 25
   },
-  "category": "TEAM",
   "registration": [
     "Only college students are permitted to participate.",
     "A valid college ID is mandatory.",
@@ -28,7 +33,5 @@
   "contacts": [
     { "incharge": "Keerthana", "phno": "9677230029" },
     { "incharge": "Swetha", "phno": "8637650896" }
-  ],
-  "price": "Rs. 25"
+  ]
 }
-

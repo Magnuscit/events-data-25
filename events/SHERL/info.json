@@ -4,9 +4,14 @@
   "description": "Participants solve a series of intricate cases through various detective tasks. Each level introduces a new format, from solving puzzles to decoding the codewords and uncovering hidden clues. This immersive experience will challenge their wits and creativity.",
   "details": {
     "type": "NON-TECHNICAL",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "min_team_size": 2,
+    "max_team_size": 4,
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/SHERL/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/SHERL/assets/2.png",
+    "price": 0
   },
-  "category": "TEAM",
   "registration": [
     "Only college students are permitted to participate.",
     "A valid college ID is mandatory.",
@@ -23,11 +28,5 @@
     "Additional instructions will be given at the start of the event.",
     "Any team that violates the rules or engages in unsportsmanlike conduct may be disqualified."
   ],
-  "contacts": [
-    { "incharge": "Shreehari S", "phno": "9043775891" },
-    { "incharge": "Lovelin Dhoni J B", "phno": "7200850960" }
-  ],
-  "price": "Rs."
-  // Prize information not provided
+  "contacts": [{ "incharge": "Faheem", "phno": "7305147636" }]
 }
-

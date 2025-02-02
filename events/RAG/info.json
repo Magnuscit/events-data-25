@@ -4,9 +4,14 @@
   "description": "This workshop will dive deep into the concept of Retrieval-Augmented Generation (RAG). Participants will learn how to integrate retrieval-based methods with generative models to improve AI-driven content generation, covering theory, applications, and hands-on implementation.",
   "details": {
     "type": "WORKSHOP",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/RAG/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/RAG/assets/2.png",
+    "price": 0
   },
-  "category": "INDIVIDUAL",
   "registration": [
     "Only college students are permitted to participate.",
     "A valid college ID is mandatory.",
@@ -24,11 +29,5 @@
     "Participants will have the opportunity to ask questions and receive feedback, but must ensure not to disrupt the flow of the session.",
     "The workshop may include a practical coding challenge at the end with potential rewards for the best solutions."
   ],
-  "contacts": [
-    { "incharge": "Shreehari S", "phno": "9043775891" },
-    { "incharge": "Lovelin Dhoni J B", "phno": "7200850960" }
-  ],
-  "price": "Rs."
-  // Prize, Contact information not provided
+  "contacts": [{ "incharge": "Faheem", "phno": "7305147636" }]
 }
-

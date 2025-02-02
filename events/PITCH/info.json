@@ -4,9 +4,14 @@
   "description": "A dynamic event that blends the creativity of UI/UX design with the competitive spirit of a hackathon. Participants will be tasked with building a functional prototype in Figma based on a theme disclosed at the start of the event. Within a limited timeframe, teams will brainstorm, design, and iterate to create user-friendly and visually appealing prototypes. Once the designs are complete, each team will present their prototype to a panel of judges, explaining their design process, key features, and rationale.",
   "details": {
     "type": "TECHNICAL",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "min_team_size": 1,
+    "max_team_size": 3,
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/PROP/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/PROP/assets/2.png",
+    "price": 25
   },
-  "category": "TEAM",
   "registration": [
     "Only college students are permitted to participate.",
     "A valid college ID is mandatory.",
@@ -30,7 +35,5 @@
   "contacts": [
     { "incharge": "Dhanasri", "phno": "8072065389" },
     { "incharge": "Faheem", "phno": "7305147636" }
-  ],
-  "price": "Rs. 25"
+  ]
 }
-

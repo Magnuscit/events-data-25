@@ -4,9 +4,14 @@
   "description": "Participants are given the opportunity to showcase their research and innovative ideas in a professional setting. Participants are invited to submit their research papers on various topics within engineering, technology, and science. Selected participants will present their work to a panel of esteemed judges and an audience of peers, followed by a Q&A session.",
   "details": {
     "type": "TECHNICAL",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/PAPER/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/PAPER/assets/2.png",
+    "price": 25
   },
-  "category": "TEAM",
   "registration": [
     "Only college students are permitted to participate.",
     "A valid college ID is mandatory.",
@@ -31,7 +36,5 @@
     { "incharge": "Faheem", "phno": 7305147636 },
     { "incharge": "Jayashree", "phno": "" },
     { "incharge": "Mohan", "phno": "" }
-  ],
-  "price": "Rs. 25"
+  ]
 }
-

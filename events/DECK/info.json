@@ -4,9 +4,14 @@
   "description": "Deck Dominance is a high-stakes, strategic showdown where teams face diverse challenges tied to card suits. Teams must complete tasks, collect cards, and score maximum points. Only the sharpest and most collaborative teams will claim victory.",
   "details": {
     "type": "NON-TECHNICAL",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "min_team_size": 2,
+    "max_team_size": 2,
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/DECK/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/DECK/assets/2.png",
+    "price": 0
   },
-  "category": "TEAM",
   "registration": [
     "Only college students are permitted to participate.",
     "A valid college ID is mandatory.",
@@ -24,10 +29,5 @@
     "Usage of mobile phones or any external help is not allowed.",
     "Any team that violates the rules or engages in unsportsmanlike conduct may be disqualified."
   ],
-  "contacts": [
-    { "incharge": "Faheem", "phno": "7305147636" }
-  ],
-  "price": "Rs." 
-  // prize amount not provided
+  "contacts": [{ "incharge": "Faheem", "phno": "7305147636" }]
 }
-

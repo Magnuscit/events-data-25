@@ -2,103 +2,160 @@
   "PAPER": {
     "name": "Paper Presentation",
     "type": "Technical",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/PAPER/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/PAPER/assets/2.png"
   },
 
   "PITCH": {
     "name": "ProtoPitch",
     "type": "Technical",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/PITCH/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/PITCH/assets/2.png"
   },
 
   "QUIZ": {
     "name": "Quizopolis",
     "type": "Technical",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/QUIZ/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/QUIZ/assets/2.png"
   },
 
   "CODE": {
     "name": "Codeuphoria",
     "type": "Technical",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/CODE/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/CODE/assets/2.png"
   },
 
   "NETVEN": {
     "name": "Netventure",
     "type": "Technical",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/NETVEN/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/NETVEN/assets/2.png"
   },
 
   "PIXEL": {
     "name": "PromptPixel",
     "type": "Technical",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/PIXEL/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/PIXEL/assets/2.png"
   },
 
   "BGMI": {
     "name": "BGMI",
     "type": "Non-Technical",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/BGMI/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/BGMI/assets/2.png"
   },
 
   "CINE": {
     "name": "Cinematica",
     "type": "Non-Technical",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/CINE/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/CINE/assets/2.png"
   },
 
   "SHERL": {
     "name": "Sherlock's Clueso",
     "type": "Non-Technical",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/SHERL/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/SHERL/assets/2.png"
   },
 
   "DECK": {
     "name": "Deck Dominance",
     "type": "Non-Technical",
-    "date": "17/02/2025"
-  },
-
-  "IPL": {
-    "name": "IPL Auction",
-    "type": "Non-Technical",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/DECK/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/DECK/assets/2.png"
   },
 
   "FBALL": {
     "name": "E-Football",
     "type": "Non-Technical",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/FBALL/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/FBALL/assets/2.png"
   },
 
   "EXPO": {
     "name": "ExpoSURE",
     "type": "Online",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/EXPO/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/EXPO/assets/2.png"
   },
 
   "LIFE": {
     "name": "Life of Words",
     "type": "Online",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/LIFE/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/LIFE/assets/2.png"
   },
 
   "CLOUD": {
     "name": "Cloud Security",
     "type": "Workshop",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/CLOUD/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/CLOUD/assets/2.png"
   },
 
   "RAG": {
     "name": "Mastering RAG",
     "type": "Workshop",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/RAG/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/RAG/assets/2.png"
   },
 
   "BLOCK": {
-    "name": "Blockchain",
+    "name": "Smart Contract Development",
     "type": "Workshop",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/BLOCK/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/BLOCK/assets/2.png"
   }
-
 }

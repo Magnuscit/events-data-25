@@ -4,9 +4,14 @@
   "description": "Cinematica is a thrilling quiz competition that tests participants' knowledge of Tamil cinema. With multiple rounds featuring different formats, participants will need to showcase their knowledge of Tamil movies to advance. The team with the most points at the end of each round progresses to the next stage.",
   "details": {
     "type": "NON-TECHNICAL",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
+    "min_team_size": 1,
+    "max_team_size": 2,
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/CINE/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/CINE/assets/2.png",
+    "price": 49
   },
-  "category": "TEAM",
   "registration": [
     "College ID is mandatory.",
     "This event comes under general registration.",
@@ -28,7 +33,5 @@
   "contacts": [
     { "incharge": "Ashika", "phno": "8939431257" },
     { "incharge": "Latheesh", "phno": "6382235520" }
-  ],
-  "price": "Rs.49 per head"
+  ]
 }
-
