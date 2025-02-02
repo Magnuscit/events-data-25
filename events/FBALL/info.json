@@ -4,7 +4,7 @@
   "description": "eFootball is a knockout tournament where players compete in an intense series of matches. With 32 players, each match will last 6 minutes, with extra time and penalties if needed. The final will be played for 10 minutes with extra time and penalties. The event ensures fair play and sportsmanship throughout the tournament.",
   "details": {
     "type": "NON-TECHNICAL",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
     "min_team_size": 1,
     "max_team_size": 1,
     "time": "12PM-2.30PM",

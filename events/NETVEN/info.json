@@ -4,7 +4,7 @@
   "description": "A challenge-based event inspired by CTF concepts, where participants solve a series of cybersecurity and problem-solving tasks. The event consists of two rounds: a Quiz Round and a Technical Round with weighted tasks. Winners are determined based on their scores and the time taken to complete the tasks.",
   "details": {
     "type": "TECHNICAL",
-    "date": "17/02/2025"
+    "date": "17/02/2025",
     "min_team_size": 1,
     "max_team_size": 1,
     "time": "12PM-2.30PM",
