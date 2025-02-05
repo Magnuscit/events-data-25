@@ -1,6 +1,6 @@
 {
   "id": "RAG",
-  "title": "Mastering RAG",
+  "title": "Mastering RAG: Making LLMs practical",
   "description": "This workshop will dive deep into the concept of Retrieval-Augmented Generation (RAG). Participants will learn how to integrate retrieval-based methods with generative models to improve AI-driven content generation, covering theory, applications, and hands-on implementation.",
   "details": {
     "type": "WORKSHOP",
@@ -10,7 +10,7 @@
     "time": "12PM-2.30PM",
     "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/RAG/assets/1.png",
     "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/RAG/assets/2.png",
-    "price": 0
+    "price": 150
   },
   "registration": [
     "Only college students are permitted to participate.",
