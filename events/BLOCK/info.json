@@ -20,8 +20,8 @@
     "Re-entry is not allowed, and the fee paid for any event/workshops is non-refundable."
   ],
   "rules": [
-    "Each participant must bring their own laptop.",
-    "Participants are expected to have basic knowledge of programming (preferably in Solidity or Python).",
+    "Each participant must bring their own laptop, if not",
+    "Participants are expected to have basic knowledge of programming.",
     "The workshop will include live coding sessions; participants must actively engage and complete tasks.",
     "Use of mobile phones, external gadgets, or unauthorized tools during the session is prohibited.",
     "Respect for all instructors, mentors, and fellow participants is mandatory. Disruptive behavior will result in disqualification.",
