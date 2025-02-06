@@ -21,7 +21,7 @@
   ],
   "rules": [
     "Each participant must bring their own laptop with necessary software pre-installed (e.g., Python, relevant libraries).",
-    "Participants should have a basic understanding of machine learning concepts and be familiar with deep learning frameworks (e.g., PyTorch, TensorFlow).",
+    "Participants should have a basic understanding of LLM concepts and be familiar with python.",
     "Active participation is required for coding exercises, and completion of tasks is necessary to gain full benefit from the workshop.",
     "No use of mobile phones, external gadgets, or unauthorized resources during the session.",
     "Respect the workshop instructors and fellow participants. Any disruptive behavior will result in disqualification.",
@@ -29,5 +29,9 @@
     "Participants will have the opportunity to ask questions and receive feedback, but must ensure not to disrupt the flow of the session.",
     "The workshop may include a practical coding challenge at the end with potential rewards for the best solutions."
   ],
-  "contacts": [{ "incharge": "Faheem", "phno": "7305147636" }]
+  "contacts": [
+    { "incharge": "Kavin", "phno": "8072155611" },
+    { "incharge": "Faheem", "phno": "7305147636" }
+  ],
+  "gform": "https://forms.gle/pQ9ZMLAdKHEbqLxx6"
 }
