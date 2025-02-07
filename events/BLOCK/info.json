@@ -1,6 +1,6 @@
 {
   "id": "BLOCK",
-  "title": "Decentralized Development",
+  "title": "Blockchain Development",
   "description": "An immersive workshop designed to provide participants with hands-on experience in building and deploying decentralized applications (dApps). This workshop will cover blockchain fundamentals, smart contract development, and real-world use cases for blockchain technology.",
   "details": {
     "type": "WORKSHOP",
@@ -30,5 +30,6 @@
     "The workshop may include a quiz at the end, with winners receiving certificates or rewards.",
     "Participants must follow all guidelines provided by the instructors throughout the workshop."
   ],
-  "contacts": [{ "incharge": "Faheem", "phno": "7305147636" }]
+  "contacts": [{ "incharge": "Faheem", "phno": "7305147636" }],
+  "gform": "https://forms.gle/8pMeSRppMrhCMtgH6"
 }
