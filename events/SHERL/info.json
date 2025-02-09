@@ -28,6 +28,9 @@
     "Additional instructions will be given at the start of the event.",
     "Any team that violates the rules or engages in unsportsmanlike conduct may be disqualified."
   ],
-  "contacts": [{ "incharge": "Faheem", "phno": "7305147636" }],
+  "contacts": [
+    { "incharge": "Mohan", "phno": "7338939288" },
+    { "incharge": "Shameel", "phno": "8778223319" }
+  ],
   "gform": "https://forms.gle/jNU5Zh1MRnaqjMaUA"
 }

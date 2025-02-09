@@ -1,0 +1,37 @@
+{
+  "id": "CYBER",
+  "title": "Cyber Sentinals: Exploring AI Tools in Cybersecurity",
+  "description": "This workshop explores how AI transforms cybersecurity by overcoming traditional threat detection limits. Participants will experience real-time anomaly detection, discuss ethical challenges, and engage in interactive Q&A sessions to balance innovation with safety.",
+  "details": {
+    "type": "WORKSHOP",
+    "date": "17/02/2025",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "time": "12PM-2.30PM",
+    "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/CYBER/assets/1.png",
+    "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/CYBER/assets/2.png",
+    "price": 150
+  },
+  "registration": [
+    "Only college students are permitted to participate.",
+    "A valid college ID is mandatory.",
+    "Participants must bring their own laptops and notes.",
+    "Prior registration is mandatory, either online or on-spot.",
+    "Re-entry is not allowed, and the fee paid is non-refundable."
+  ],
+  "rules": [
+    "Each participant must bring their own laptop with necessary software pre-installed.",
+    "Participants should have a basic understanding of cybersecurity concepts.",
+    "Active participation is required for exercises to gain full benefits.",
+    "No use of mobile phones, external gadgets, or unauthorized resources during the session.",
+    "Respect the workshop instructors and fellow participants. Any disruptive behavior will result in disqualification.",
+    "Participants must refrain from sharing or using unauthorized code during practical sessions.",
+    "The workshop may include a hands-on demo with AI-based threat detection tools."
+  ],
+  "contacts": [
+    { "incharge": "Sitharshan", "phno": "8438190166" },
+    { "incharge": "Faheen", "phno": "7305147636" },
+    { "incharge": "Guru", "phno": "9884410006" }
+  ],
+  "gform": "https://forms.gle/xmqu2ND5LgBzGPJv7"
+}
