@@ -1,6 +1,7 @@
 {
   "PAPER": {
     "name": "Paper Presentation",
+    "price": 0,
     "type": "Technical",
     "date": "17/02/2025",
     "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
@@ -11,6 +12,7 @@
 
   "PITCH": {
     "name": "ProtoPitch",
+    "price": 0,
     "type": "Technical",
     "date": "17/02/2025",
     "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
@@ -21,6 +23,7 @@
 
   "QUIZ": {
     "name": "Quizopolis",
+    "price": 0,
     "type": "Technical",
     "date": "17/02/2025",
     "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
@@ -31,6 +34,7 @@
 
   "CODE": {
     "name": "Codeuphoria",
+    "price": 0,
     "type": "Technical",
     "date": "17/02/2025",
     "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
@@ -41,6 +45,7 @@
 
   "NETVEN": {
     "name": "Netventure",
+    "price": 0,
     "type": "Technical",
     "date": "17/02/2025",
     "description": "Nijika chan, Gotoh chan, Kita chan, Ryo Senpai :- Kessoku Band",
@@ -50,6 +55,7 @@
   },
 
   "PIXEL": {
+    "price": 0,
     "name": "PromptPixel",
     "type": "Technical",
     "date": "17/02/2025",
@@ -60,6 +66,7 @@
   },
 
   "BGMI": {
+    "price": 119,
     "name": "BGMI",
     "type": "Non-Technical",
     "date": "17/02/2025",
@@ -70,6 +77,7 @@
   },
 
   "CINE": {
+    "price": 79,
     "name": "Cinematica",
     "type": "Non-Technical",
     "date": "17/02/2025",
@@ -80,6 +88,7 @@
   },
 
   "SHERL": {
+    "price": 99,
     "name": "Sherlock's Clueso",
     "type": "Non-Technical",
     "date": "17/02/2025",
@@ -90,6 +99,7 @@
   },
 
   "DECK": {
+    "price": 99,
     "name": "Deck Dominance",
     "type": "Non-Technical",
     "date": "17/02/2025",
@@ -100,6 +110,7 @@
   },
 
   "FBALL": {
+    "price": 49,
     "name": "E-Football",
     "type": "Non-Technical",
     "date": "17/02/2025",
@@ -110,6 +121,7 @@
   },
 
   "EXPO": {
+    "price": 25,
     "name": "ExpoSURE",
     "type": "Online",
     "date": "17/02/2025",
@@ -120,6 +132,7 @@
   },
 
   "LIFE": {
+    "price": 25,
     "name": "Life of Words",
     "type": "Online",
     "date": "17/02/2025",
@@ -130,6 +143,7 @@
   },
 
   "CLOUD": {
+    "price": 200,
     "name": "Cloud Security",
     "type": "Workshop",
     "date": "17/02/2025",
@@ -140,6 +154,7 @@
   },
 
   "RAG": {
+    "price": 150,
     "name": "Mastering RAG",
     "type": "Workshop",
     "date": "17/02/2025",
@@ -150,6 +165,7 @@
   },
 
   "BLOCK": {
+    "price": 150,
     "name": "Blockchain Development",
     "type": "Workshop",
     "date": "17/02/2025",
@@ -159,6 +175,7 @@
     "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/BLOCK/assets/2.png"
   },
   "CYBER": {
+    "price": 150,
     "name": "Cyber Sentinals",
     "type": "Workshop",
     "date": "17/02/2025",
