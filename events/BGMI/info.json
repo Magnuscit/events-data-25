@@ -10,7 +10,8 @@
     "time": "12PM-2.30PM",
     "thumb": "https://github.com/Magnuscit/events-data-25/blob/master/events/BGMI/assets/2.png",
     "banner": "https://github.com/Magnuscit/events-data-25/blob/master/events/BGMI/assets/2.png",
-    "price": 119
+    "price": 99,
+    "limited": true
   },
   "registration": [
     "Only college students are permitted to participate.",
